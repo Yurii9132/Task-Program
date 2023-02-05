@@ -1,0 +1,2 @@
+D:\VS\ToDo\x64\Debug\ToDo.exe
+D:\VS\ToDo — копия\x64\Debug\ToDo.exe

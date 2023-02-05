@@ -1,0 +1,6 @@
+5
+22	0	29	10	2022	5	sport	1	9	go to gym	21	50	
+7	0	30	10	2022	7	morning	1	38	get up at 7 o'clock. Do some gymnastic	7	0	
+8	3	31	10	2022	11	Sergii trip	2	37	Get train 8:03 to Wostershire parkway	7	0	
+8	15	31	10	2022	11	Sergii trip	3	19	Train to Birminghem	8	0	
+14	0	31	10	2022	26	Sergii arrive to Edinbourg	4	35	Meet Sergii at tarain station 14:00	12	0	
